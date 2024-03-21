@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Azad,at your service.</title>
+  <icon>https://www.gravatar.com/avatar/4d3fe485717f166c618d242a463ba69d</icon>
   
-  <subtitle>你来时 带上我徒劳的想望</subtitle>
   <link href="https://github.com/AzadJuicy/AzadJuicy.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/AzadJuicy/AzadJuicy.github.io/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>Azad</name>
-    
+    <email>952429378.qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
