@@ -3,11 +3,11 @@
   <title>Azad,at your service.</title>
   <icon>https://www.gravatar.com/avatar/4d3fe485717f166c618d242a463ba69d</icon>
   
-  <link href="https://github.com/AzadJuicy/AzadJuicy.github.io/atom.xml" rel="self"/>
+  <link href="https://azadjuicy.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/AzadJuicy/AzadJuicy.github.io/"/>
+  <link href="https://azadjuicy.github.io/"/>
   <updated>2024-03-21T13:20:40.421Z</updated>
-  <id>https://github.com/AzadJuicy/AzadJuicy.github.io/</id>
+  <id>https://azadjuicy.github.io/</id>
   
   <author>
     <name>Azad</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/AzadJuicy/AzadJuicy.github.io/2024/03/20/hello-world/"/>
-    <id>https://github.com/AzadJuicy/AzadJuicy.github.io/2024/03/20/hello-world/</id>
+    <link href="https://azadjuicy.github.io/2024/03/20/hello-world/"/>
+    <id>https://azadjuicy.github.io/2024/03/20/hello-world/</id>
     <published>2024-03-20T14:34:04.315Z</published>
     <updated>2024-03-21T13:20:40.421Z</updated>
     
